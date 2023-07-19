@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Facebook-like Website</title>
+  <style>
+    /* Add your custom CSS styles here */
+  </style>
+</head>
+<body>
+  <!-- Header section -->
+  <header>
+    <!-- Your logo and navigation links go here -->
+    <h1>Facebook-like Website</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Profile</a></li>
+        <li><a href="#">Friends</a></li>
+        <!-- Add more navigation links as needed -->
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Main content section -->
+  <main>
+    <!-- Your content goes here -->
+    <section>
+      <h2>Welcome to the Facebook-like Website</h2>
+      <p>This is an example of a Facebook-like website.</p>
+      <!-- Add more content as needed -->
+    </section>
+  </main>
+
+  <!-- Footer section -->
+  <footer>
+    <!-- Your footer content goes here -->
+    <p>&copy; 2023 Your Company. All rights reserved.</p>
+  </footer>
+</body>
+</html>
